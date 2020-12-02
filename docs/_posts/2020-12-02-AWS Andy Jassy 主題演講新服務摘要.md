@@ -56,6 +56,7 @@
 	- 無縫 EKS 體驗
 	- 橫跨本地基礎設施和 AWS 的Amazon EKS Distro
 	- Amazon EKS Distro 開源
+	
 ### 移動至更小單元運算的挑戰
 - [AWS Proton](https://amz.run/44Da)（正式通用）
 	- 首個容器與無伺服器應用程式的完全託管部署服務
