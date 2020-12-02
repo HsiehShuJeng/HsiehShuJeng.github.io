@@ -804,5 +804,5 @@ ZACH BLITZ, HEAD OF INFRASTRUCE
 
 ### I wish I could Google my ending...someone give me reassurance, answers, anything will do.  
 
-![](/new_background.jpg)
+![](new_background.jpg)
 
