@@ -139,6 +139,7 @@
 - [兩種新大小的 AWS Outposts](https://amz.run/44Dy)
 	- 2021 到來
 	- 用到更少空間、在本地中運行 AWS 基礎設施、更小的Outposts
+	
 ### [AWS 本地區域](https://amz.run/44Dw)  
 - AWS 區域的延伸
 - 遞送單位數毫秒的延遲給當地端使用者
