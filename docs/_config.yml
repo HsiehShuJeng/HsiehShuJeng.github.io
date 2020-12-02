@@ -22,12 +22,11 @@ title: Scott's Markdown-based Haven
 email: fantasticSie@hotmail.com
 author: scott.hsieh
 description: >- 
-  This website is purely for displaying content noted on a markdown file, i.e., the notes from the keynote spoken by Andy Jassy at an online conference, AWS re:Invent.
+  This website is purely for displaying content noted on a markdown file, i.e., the notes from the keynote spoken by Andy Jassy at an online conference, AWS re:Invent 2020.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: ScottXieh
 twitter_username: fantasticHsieh
-github_username:  HsiehShuJen
 
 # Build settings
 markdown: kramdown

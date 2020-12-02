@@ -1,8 +1,21 @@
 # AWS Reinvent 2020
+* [Computing](#computing) 
+* [Containers](#containers)
+* [AWS is changing the game for what customers can build](#aws-is-changing-the-game-for-what-customers-can-build)  
+* [Storage](#storage)  
+* [Database](#database) 
+* [When all you have is a hammer, everything looks like a nail](#when-all-you-have-is-a-hammer-everything-looks-like-a-nail)  
+* [Analytics](#analytics)  
+* [ML/DL](#ml-dl)  
+* [Customer Engagement](#customer-engagement)  
+* [IoT](#iot)  
+* [Hybrid](#hybrid)  
+* [Ending](#ending)
 
-## Computing
 
-### EC2
+## <a id="computing"></a>Computing
+
+### <a id="EC2"></a>EC2
 
 - brief
 
@@ -56,7 +69,7 @@
 	- Use a consistent set of tools for compatible container image and Lambda-based applications
 	- Deploy Lambda functions built on top of third-party base container images
 
-## Containers
+## <a id="containers"></a>Containers
 
 ### the best place to run and manage containers
 
@@ -96,7 +109,7 @@
 		- 5. Deploy microservice
 		- 6. Update and maintain microservices
 
-## AWS is changing the game for what customers can build
+## <a id="aws-is-changing-the-game-for-what-customers-can-build"></a>AWS is changing the game for what customers can build
 
 ### instances
 
@@ -109,7 +122,7 @@ SmugMug
 
 - https://www.smugmug.com/
 
-## storage
+## <a id="storage"></a>storage
 
 ### Reinventing data stores
 
@@ -135,7 +148,7 @@ in an entire year 20 years ago
 	- SAN performance without the headaches
 	- More SAN features coming in 2021: Multi-Attach, I/O Fencing, Fast Snapshot Restore, and Elastic Volumes
 
-## database
+## <a id="database"></a>database
 
 ### On-premises databases require a lot of undifferentiated heavy lifting
 
@@ -200,7 +213,7 @@ in an entire year 20 years ago
 	- Makes the source code available to add new features
 	- Available on GitHub in 2021
 
-## When all you have is a hammer, everything looks like a nail
+## <a id="when-all-you-have-is-a-hammer-everything-looks-like-a-nail"></a>When all you have is a hammer, everything looks like a nail
 
 ### The right tool for the right job
 
@@ -278,7 +291,7 @@ in an entire year 20 years ago
 
 	- Amazon Redshift
 
-## Analytics
+## <a id="analytics"></a>Analytics
 
 ### Data Movement
 
@@ -328,7 +341,7 @@ BOOM
 
 - all-in with AWS
 
-## ML/DL
+## <a id="ml-dl"></a>ML/DL
 
 ### company support
 Intuit
@@ -550,7 +563,7 @@ Fox
 
 	- https://www.foxcorporation.com/
 
-## Customer Engagement
+## <a id="customer-engagement"></a>Customer Engagement
 
 ### The challenges of traditional contact centers
 
@@ -639,7 +652,7 @@ Fox
 
 		- Connect Voice ID provides real-time caller authentication without disrupting natural conversation
 
-## IoT
+## <a id="iot"></a>IoT
 
 ### what industries are being reinvented? 
 
@@ -725,7 +738,7 @@ Carrier
 			- Panorama-compatible cameras work out of the box with AWS ML services
 			- Build and train models in SageMaker and deploy to cameras with a single click
 
-## hybrid
+## <a id="hybrid"></a>hybrid
 
 ### company support
 Riot Games
@@ -787,7 +800,7 @@ ZACH BLITZ, HEAD OF INFRASTRUCE
 - MAJOR METROS
 - RUGGED EDGE
 
-## ending
+## <a id="ending"></a>ending
 
 ### I wish I could Google my ending...
 someone give me reassurance, answers, anything will do.
