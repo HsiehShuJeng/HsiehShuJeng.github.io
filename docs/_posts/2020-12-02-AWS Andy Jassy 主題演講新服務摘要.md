@@ -33,6 +33,7 @@
 	- 任何 ML 運算實體 每秒一萬億次浮點運算 （teraflops）
 	- 使用了與 Inferentai 一樣的 Neuron SOK
 	- 在 Amazon SageMaker或 EC2 上皆可使用
+	
 ### AWS Lambda
 - 簡要
 	- 最多節省 70 % 成本的[毫秒計費](https://amz.run/44DT)（與 100毫秒相比）
@@ -139,7 +140,7 @@
 - [兩種新大小的 AWS Outposts](https://amz.run/44Dy)
 	- 2021 到來
 	- 用到更少空間、在本地中運行 AWS 基礎設施、更小的Outposts
-	
+
 ### [AWS 本地區域](https://amz.run/44Dw)  
 - AWS 區域的延伸
 - 遞送單位數毫秒的延遲給當地端使用者
