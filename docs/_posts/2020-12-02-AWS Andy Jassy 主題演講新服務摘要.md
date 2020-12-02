@@ -101,8 +101,8 @@
 	- 給機器學習準備資料的最快方式
 - [Amazon SageMaker Feature Store](https://amz.run/44Dn)（正式通用）
 	- 使儲存、更新、和分享 ML 特徵變得輕鬆的 repo
-- [Amazon SageMaker Pipelines](https://amz.run/44Do)（正式通用）
-	- 專特為 ML 打造的 工作流服務
+- [Amazon SageMaker Pipelines](https://amz.run/44E8)（正式通用）
+	- 專特為 ML 打造的 CICD 服務  
 - Amazon CodeGuru
 	- 支援 Python（正式通用）
 - [Amazon DevOps Guru](https://amz.run/44Du)（預覽版）
@@ -149,5 +149,3 @@
 - 2021年多 12 個本地區域：亞特蘭大、芝加哥、達拉斯、丹佛、堪薩斯城、拉斯維加斯、明尼阿波利斯、紐約、費城、鳳凰城、波特蘭、和西雅圖
 
 ![](new_background.jpg)
-
-
