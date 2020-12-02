@@ -802,6 +802,7 @@ ZACH BLITZ, HEAD OF INFRASTRUCE
 
 ## <a id="ending"></a>ending
 
-### I wish I could Google my ending...
-someone give me reassurance, answers, anything will do.
+### I wish I could Google my ending...someone give me reassurance, answers, anything will do.  
+
+![](./new_backgroun.jpg)
 
