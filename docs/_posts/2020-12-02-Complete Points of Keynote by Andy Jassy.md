@@ -102,12 +102,12 @@
 	- The first fully managed deployment service for container and serverless applications
 	- Building microservices with AWS Proton
 
-		- 1. Define stack
-		- 2. Publish stack
-		- 3. Select stack
-		- 4. Enter parameters
-		- 5. Deploy microservice
-		- 6. Update and maintain microservices
+		1. Define stack
+		2. Publish stack
+		3. Select stack
+		4. Enter parameters
+		5. Deploy microservice
+		6. Update and maintain microservices
 
 ## <a id="aws-is-changing-the-game-for-what-customers-can-build"></a>AWS is changing the game for what customers can build
 
