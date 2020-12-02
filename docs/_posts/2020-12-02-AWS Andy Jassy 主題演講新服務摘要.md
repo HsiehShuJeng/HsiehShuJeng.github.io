@@ -18,7 +18,7 @@
 	- [D3en](https://amz.run/44DI)、最大區域（local）儲存空間實體 (336TB、正式通用)
 	- 只有 AWS 有、[MacOS 運算實體](https://amz.run/44DL) （正式通用）
 - Graviton 2  
-	- AWS Gravition2 Arm processors 搭載AWS Gravition2 ARM 處理器的運算實體
+	- 搭載AWS Gravition2 ARM 處理器的運算實體
 	- 在各種工作負載上、40% 更佳的價格/效能
 		- [C6g](https://amz.run/44DB)、強化網路（預覽版）
 		- [T4g](https://amz.run/44DG)、可高載執行 （正式通用）
@@ -56,7 +56,7 @@
 	- 無縫 EKS 體驗
 	- 橫跨本地基礎設施和 AWS 的Amazon EKS Distro
 	- Amazon EKS Distro 開源
-	
+
 ### 移動至更小單元運算的挑戰
 - [AWS Proton](https://amz.run/44Da)（正式通用）
 	- 首個容器與無伺服器應用程式的完全託管部署服務
